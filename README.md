@@ -25,6 +25,6 @@ hexo clean && hexo generate && hexo server
 ```
 
 themes
-* [butterfly](https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly)
+* [butterfly](https://github.com/jerryc127/hexo-theme-butterfly.git)
 * [yilia](https://github.com/litten/hexo-theme-yilia)
 * [cafe](https://github.com/giscafer/hexo-theme-cafe)
