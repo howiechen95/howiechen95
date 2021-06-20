@@ -11,3 +11,6 @@ run
 ```
 hexo clean && hexo generate && hexo server~~
 ```
+
+themes
+* [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
