@@ -7,10 +7,24 @@ npm install -g hexo-cli
 npm install hexo
 ```
 
+change themes
+```
+git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
+
+npm install hexo-renderer-pug hexo-renderer-stylus
+```
+
+update  _config.yml
+```
+theme: butterfly
+```
+
 run
 ```
-hexo clean && hexo generate && hexo server~~
+hexo clean && hexo generate && hexo server
 ```
 
 themes
-* [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
+* [butterfly](https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly)
+* [yilia](https://github.com/litten/hexo-theme-yilia)
+* [cafe](https://github.com/giscafer/hexo-theme-cafe)
