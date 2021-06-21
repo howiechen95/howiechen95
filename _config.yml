@@ -99,6 +99,8 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 #theme: yilia
+#theme: pure
+#theme: cyanstyle
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
