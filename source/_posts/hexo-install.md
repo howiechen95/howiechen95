@@ -1,7 +1,7 @@
 ---
 title: 搭建 Hexo 博客
 date: 2021-06-12 10:55:41
-tags: hexo
+tags: Hexo
 categories: 教程 
 ---
 
@@ -19,3 +19,6 @@ categories: 教程
 ### hexo 5.0 配置主题
 * [Butterfly 安裝文檔](https://butterfly.js.org/posts/dc584b87/#Page-Front-matter)
 
+
+{% gallery %}
+{% endgallery %}
