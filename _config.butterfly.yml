@@ -1,7 +1,11 @@
 language: zh-CN
 
-highlight_theme: mac
 top_img: false
+# Avatar (頭像)
+avatar:
+  img: http://106.53.104.23:8888/group1/M00/00/00/CgAMB2DTM_uALqKoAKNk5akbN_Y41.jpeg
+  effect: false
+
 
 cover:
   # 是否顯示文章封面
@@ -70,3 +74,10 @@ aside:
     post_count: true
     last_push_date: true
     sort_order: # Don't modify the setting unless you know how it works
+
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
+highlight_copy: true # copy button
+highlight_lang: true # show the code language
+highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
+highlight_height_limit: false # unit: px
+code_word_wrap: false
