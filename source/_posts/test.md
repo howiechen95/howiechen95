@@ -21,6 +21,13 @@ highlight_shrink:
 aside:
 ---
 
+### 记录测试情况
+
+> 使用自己搭建的文件系统，在 github page 引用图片存在跨域问题，在手机上却没发现
+> 后来在自己搭建文件服务器上的允许hexo，就不再跨域了
+> 可能周末还是得把域名备案的事搞一下
+
+
 ```sql
 CREATE TABLE IF NOT EXISTS `runoob_tbl`(
    `runoob_id` INT UNSIGNED AUTO_INCREMENT,
