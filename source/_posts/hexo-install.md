@@ -18,3 +18,7 @@ categories: 教程
 
 ### hexo 5.0 配置主题
 * [Butterfly 安裝文檔](https://butterfly.js.org/posts/dc584b87/#Page-Front-matter)
+
+### 图床
+
+* [Hexo优雅地使用图床](https://blog.dgut.top/2020/07/10/hexo-pic/)
