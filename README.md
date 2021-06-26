@@ -34,3 +34,4 @@ themes
 
 * [travis-ci自动部署](https://lanlan2017.github.io/blog/13f63c39/)
 * [Hexo博客多主题自动部署方案](https://www.jianshu.com/p/f8ffcd755e7a)
+* [Hexo优雅地使用图床](https://blog.dgut.top/2020/07/10/hexo-pic/)
