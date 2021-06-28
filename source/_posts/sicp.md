@@ -1,7 +1,8 @@
 ---
 title: SICP 计算机程序的构造和解释
 date: 2021-06-28 23:58:36
-tags: 笔记 公开课
+tags: 笔记
+categories: 笔记 公开课 CS
 cover: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DZ_EyAF7e9AANqY0fUJ1Q290.jpg
 ---
 
