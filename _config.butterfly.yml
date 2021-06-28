@@ -1,7 +1,8 @@
 language: zh-CN
 
 disable_top_img: false
-index_img: http://127.0.0.1:8080/group1/default/20210627/14/56/2/[Fansub][A_Chain_of_Short_Stories_about_Their_Distance][SP1][1080p][BluRay][x264_AC3][1EE0A34C][00-04-00][20210627-145516312].jpg
+index_img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DZ-3mAP7IEAANUbLBmHuA681.jpg
+#index_img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DZ-3yANMmkAAFzMLwulHs002.jpg
 
 # Avatar (頭像)
 avatar:
