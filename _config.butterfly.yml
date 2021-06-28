@@ -28,15 +28,20 @@ cover:
 #  - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 menu:
   首页: / || fas fa-home
-  时间轴: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
+  目录 ||fa-fw fas fa-compass:
+    归档: /archives/ || fas fa-archive
+    标签: /tags/ || fas fa-tags
+    分类: /categories/ || fas fa-folder-open
+  生活 || fa fa-heartbeat:
+    书单: /library/ || fa-fw fas fa-book
     音乐: /music/ || fas fa-music
     照片: /gallery/ || fas fa-images
     电影: /movies/ || fas fa-video
-  友链: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
+  孤岛 || fa-fw fas fa-cubes :
+    一个想法: /think/ || fa-fw fas fa-comment-dots
+    TODO: /todo/ || far fa-check-circle
+#  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-mask
 
 aside:
   enable: true
@@ -83,7 +88,7 @@ aside:
     last_push_date: false
     sort_order: # Don't modify the setting unless you know how it works
 
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: pale night #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: false # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
