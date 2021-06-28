@@ -1,8 +1,12 @@
 ---
 title: 搭建 Hexo 博客
 date: 2021-06-12 10:55:41
-tags: Hexo
-categories: 教程 
+tags:
+    - 教程
+    - Hexo
+categories: 
+    - 教程
+    - Hexo
 ---
 
 ### 安装
