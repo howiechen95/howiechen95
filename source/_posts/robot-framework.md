@@ -1,5 +1,5 @@
 ---
-title: robot_framework 环境配置
+title: Robot framework 环境配置
 date: 2021-06-30 00:43:16
 tags:
     - python
@@ -7,6 +7,7 @@ tags:
 categories:
     - 测试
     - 自动化脚本
+cover: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DbUhyAal3gAAL08K4etkA976.jpg
 ---
 
 ### 一、介绍
@@ -26,15 +27,14 @@ File—>settings—>Editor—>File Types  -->Robot Feature –>在Registered Pat
 3. 运行配置
 File—>settings—>Tools—>External Tools –>添加两个运行配置。
 
-suite 运行时配置
+4. suite 运行时配置
 
-name: Robot Run TestSuite
-
-Program: D:\Python\Python37\Scripts\robot.exe
-
-Arguments: -d results $FileName$
-
-Working directory: $FileDir$
+```
+name: Robot Run TestSuite    
+Program: D:\Python\Python37\Scripts\robot.exe     
+Arguments: -d results $FileName$    
+Working directory: $FileDir$    
+```
 
 参考文章：     
 * [python3+Robot Framework+PyCharm 环境部署](https://www.cnblogs.com/emma-lucas/p/11231722.html)
