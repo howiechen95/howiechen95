@@ -17,7 +17,9 @@ top_img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscs
 
 DataFun
 
-
+[Google-Bigtable中文版](https://github.com/howiechen95/files/tree/master/bigdata/Google-Bigtable中文版.pdf)    
+[Google-MapReduce中文版](https://github.com/howiechen95/files/tree/master/bigdata/Google-MapReduce中文版_1.0.pdf)    
+[Google-File-System中文版](https://github.com/howiechen95/files/tree/master/bigdata/Google-File-System中文版_1.0.pdf)    
 
 #### AI
 
