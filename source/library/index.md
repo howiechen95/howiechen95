@@ -60,6 +60,7 @@ top_img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscs
 ### 杂乱
 
 - [【编程随想】收藏的电子书清单](https://github.com/programthink/books)
+- [Ebook](https://github.com/jingyuexing/Ebook)
 - 吴念真
   - 《重逢》
     
