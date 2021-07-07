@@ -14,8 +14,8 @@ avatar:
 footer:
   owner:
     enable: true
-    since: 2020
-  custom_text: <div class="icp"><a href="http://beian.miit.gov.cn" target="_blank" rel="noopener"><img class="icp-icon entered loading" src="/img/icp.png" data-ll-status="loading"><span>粤ICP备18101807号</span></a></div>
+    since: 2021
+  custom_text: <div class="icp"><a href="http://beian.miit.gov.cn" target="_blank" rel="noopener"><img class="icp-icon entered loading" src="/img/icp.png" data-ll-status="loading"><span>粤ICP备2021092723号</span></a></div>
   copyright: true # Copyright of theme and framework
 
 cover:
