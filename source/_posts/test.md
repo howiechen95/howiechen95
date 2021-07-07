@@ -128,3 +128,32 @@ type Status struct {
 ![](https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg)
 ![](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg)
 {% endgallery %}
+
+{% note simple %}
+默認 提示塊標籤
+{% endnote %}
+
+{% note default simple %}
+default 提示塊標籤
+{% endnote %}
+
+{% note primary simple %}
+primary 提示塊標籤
+{% endnote %}
+
+{% note success simple %}
+success 提示塊標籤
+{% endnote %}
+
+{% note info simple %}
+info 提示塊標籤
+{% endnote %}
+
+{% note warning simple %}
+warning 提示塊標籤
+{% endnote %}
+
+{% note danger simple %}
+danger 提示塊標籤
+{% endnote %}
+
