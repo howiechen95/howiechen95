@@ -23,6 +23,8 @@ highlight_shrink:
 aside:
 ---
 
+# [Butterfly 安裝文檔(三) 主題配置-1 | Butterfly](https://butterfly.js.org/posts/4aa8abbe/)
+
 ### 记录测试情况
 
 > 使用自己搭建的文件系统，在 github page 引用图片存在跨域问题，在手机上却没发现
