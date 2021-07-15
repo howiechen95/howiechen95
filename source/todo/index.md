@@ -5,32 +5,36 @@ date: 2021-06-29 01:05:39
 
 {% tabs TODO %}
 <!-- tab 阅读 -->
-> 阅读计划
+> 技术书籍
 
-{% note danger simple %}
-未开始
-{% endnote %}
+- [ ] Redis 实战
+- [ ] 
+- [ ] 
 
-* SICP
-* Redis 实战
+> 非技术书籍
 
-{% note success simple %}
-已完成
-{% endnote %}
+- [ ] 李光耀观天下
+- [ ] 
+- [ ] 
 
-<!-- endtab -->
-
-<!-- tab 本月计划 -->
-> 7月计划
-
-
-
+> 其它
+- [ ] 公开课 SICP
+- [ ] 极客时间 分布式协议与算法实战
 
 <!-- endtab -->
+
 
 <!-- tab 2021 计划 -->
-**只有圖標 沒有Tab名字**
+- [x] 搞个博客
+- [ ] 坚持每天刷github contributions  ~~很水的commit也行~~
+- [ ] 梳理一下自己的技能树
+- [ ] 阅读 3 本技术书籍、3本非技术书籍
+- [ ] 整三个自己的仓库 ~~能用的小demo就行~~
 <!-- endtab -->
 
+
+<!-- tab 其它 -->
+
+<!-- endtab -->
 {% endtabs %}
 
