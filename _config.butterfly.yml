@@ -1,14 +1,14 @@
 language: zh-CN
 
 disable_top_img: true
-index_img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DZ-3mAP7IEAANUbLBmHuA681.jpg
-#index_img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DZ-3yANMmkAAFzMLwulHs002.jpg
+index_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ-3mAP7IEAANUbLBmHuA681.jpg
+#index_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ-3yANMmkAAFzMLwulHs002.jpg
 
-archive_img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DbUXeACiLqAAK0fQnxMbI099.jpg
+archive_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DbUXeACiLqAAK0fQnxMbI099.jpg
 
 # Avatar (頭像)
 avatar:
-  img: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DtsGeAQ9tOAAFfbRxs-WA526.jpg
+  img: https://howiechen95.com/group1/M00/00/00/CgAMB2DtsGeAQ9tOAAFfbRxs-WA526.jpg
   effect: false
 
 footer:

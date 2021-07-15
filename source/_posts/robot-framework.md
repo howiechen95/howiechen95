@@ -7,7 +7,7 @@ tags:
 categories:
     - 测试
     - 自动化脚本
-cover: http://howiechen95.com:8888/group1/M00/00/00/CgAMB2DbUhyAal3gAAL08K4etkA976.jpg
+cover: https://howiechen95.com/group1/M00/00/00/CgAMB2DbUhyAal3gAAL08K4etkA976.jpg
 ---
 
 ### 一、介绍
