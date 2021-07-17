@@ -41,6 +41,7 @@ menu:
     照片: /gallery/ || fas fa-images
     电影: /movies/ || fas fa-video
   孤岛 || fa-fw fas fa-cubes :
+    工具: /tools/ || fas fa-toolbox
     一个想法: /think/ || fa-fw fas fa-comment-dots
     TODO: /todo/ || far fa-check-circle
 #  友链: /link/ || fas fa-link
