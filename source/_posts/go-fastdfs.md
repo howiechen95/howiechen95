@@ -2,9 +2,11 @@
 title: go-fastdfs
 date: 2021-07-26 23:32:29
 tags:
-    - 加密
+    - 文件系统
+    - go
 categories:
-    - 密码学
+    - 文件系统
+    - "go-fastdfs"
 cover: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_EyAF7e9AANqY0fUJ1Q290.jpg
 ---
 
