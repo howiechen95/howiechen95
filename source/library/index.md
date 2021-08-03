@@ -23,10 +23,8 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscsY012
 
 > #### AI
 
-- 《统计学习方法》    
-
-- 《机器学习》    
-
+- 《统计学习方法》
+- 《机器学习》
 - 《深度学习》
 
 
@@ -36,17 +34,15 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscsY012
 
 > ### 科幻
 
-- 《snow crash》    
-
+- 《snow crash》
 - 《cryptonomicon》 
 
 > ### 心理学
 
 - 《乌合之众》
-
 - 《影响力》
-
 - 《非暴力沟通》
+- 《人性的弱点全集》
 
 > ### 社会学
 
@@ -77,6 +73,7 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscsY012
 - 《修真聊天群》
 - 《我有一座恐怖屋》
 - 《我的师兄实在太稳健了》
+- 《The Martian》
 
 > ### 杂乱
 
