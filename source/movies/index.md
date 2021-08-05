@@ -68,6 +68,8 @@ top_img: https://howiechen95.com/
 
 - 《星之梦》
 
+- 《罪恶王冠》
+
 ### 漫画
 
 - 《光速蒙面侠》
