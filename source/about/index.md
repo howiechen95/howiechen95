@@ -5,5 +5,5 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hOAEnEVAANrxznldh0814
 ---
 
 * 一个想成为软件工程师的码农
-* 会点 java 和 golang
+* java、golang
 * 在学习输出
