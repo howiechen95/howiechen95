@@ -72,9 +72,9 @@ top_img: https://howiechen95.com/
 
 - 《罪恶王冠》
 
-- 《异度侵袭》
+- 《异度侵入/ID:INVADED》
 
-- 《失落要塞》
+- 《没落要塞/DECA-DENCE》
 
 ### 漫画
 
