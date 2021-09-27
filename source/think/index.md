@@ -77,3 +77,10 @@ date: 2021-06-29 01:05:34
 > 梦(想)就是人们真的了解这个世界是怎样运转后丢掉的第一件东西
 
 > 虽然不愿承认，但我一直认为痛苦比快乐更能驱动人去完成某件事，因为痛苦给你的感受是时时刻刻的，让你不得不去做点事来摆脱它，直到你战胜它或彻底放弃。
+
+> Now I have come to the crossroads in my life. 
+> I always knew what the right path was. 
+> Without exception, I knew. 
+> But I never took it, you know why? It was too damn hard.
+> -《闻香识女人》
+
