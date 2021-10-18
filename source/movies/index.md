@@ -82,6 +82,10 @@ top_img: https://howiechen95.com/
 
 - 《没落要塞/DECA-DENCE》
 
+- 《游戏人生/NO GAME NO LIFE》
+
+- 《来自新世界》
+
 ### 漫画
 
 - 《光速蒙面侠》
