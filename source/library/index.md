@@ -75,7 +75,10 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscsY012
 - 《我的师兄实在太稳健了》
 - 《The Martian》
 
-> ### 杂乱
+> ### 
+- 《毛选》 
+
+> ### 其它
 
 - [【编程随想】收藏的电子书清单](https://github.com/programthink/books)
 - [Ebook](https://github.com/jingyuexing/Ebook)
@@ -83,4 +86,5 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscsY012
 - 吴念真
   - 《重逢》
 - 豆豆三部曲《背叛》、《遥远的救世主》、《天幕红尘》
+
     
