@@ -34,6 +34,8 @@ top_img: https://howiechen95.com/
 
 - 《盲点》
 
+- 《三傻大闹宝莱坞》
+
 - 叶念琛
 
 ### 电视剧
