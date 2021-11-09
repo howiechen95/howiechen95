@@ -68,7 +68,7 @@ top_img: https://howiechen95.com/
 
 - 宫崎骏
 
-- 金敏
+- 今敏
 
 - 《命运石之门》
 
