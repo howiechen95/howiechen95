@@ -43,5 +43,6 @@ categories:
 
 
 ### 三、部署
+[5分钟不到！Docker搭建RocketMQ，史上最快教程！](https://cloud.tencent.com/developer/article/1621263)
 
 ### 四、使用场景
