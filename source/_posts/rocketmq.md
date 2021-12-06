@@ -46,3 +46,17 @@ categories:
 [5分钟不到！Docker搭建RocketMQ，史上最快教程！](https://cloud.tencent.com/developer/article/1621263)
 
 ### 四、使用场景
+
+[特性](https://github.com/apache/rocketmq/blob/master/docs/cn/features.md)
+- 1 订阅发布  
+- 2 消息顺序
+- 3 消息过滤
+- 4 消息可靠性
+- 5 至少一次
+- 6 回溯消费
+- 7 事务消息
+- 8 定时消息
+- 9 消息重试
+- 10 消息重投
+- 11 流量控制
+- 12 死信队列
