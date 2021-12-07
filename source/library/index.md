@@ -49,6 +49,7 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscsY012
 - 《乡土中国》
 - 《社会学》- 吉登斯
 - 《消费社会》-鲍德里亚
+- 《信息乌托邦》 
 
 > ### 新闻传播学
 - 《传播学概论》- 威尔伯·施拉姆、威廉·波特
