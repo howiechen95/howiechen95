@@ -159,3 +159,9 @@ warning 提示塊標籤
 danger 提示塊標籤
 {% endnote %}
 
+
+## 看板娘配置
+
+```
+npm install --save hexo-helper-live2d
+```
