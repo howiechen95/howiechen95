@@ -127,7 +127,7 @@ live2d:
     hOffset: 0
     vOffset: -60    # 距底部距离
   mobile:
-    show: true    # 手机端是否可见，建议不可见否则可能影响阅读
+    show: false    # 手机端是否可见，建议不可见否则可能影响阅读
     scale: 0.5
   react:
     opacityDefault: 0.7
