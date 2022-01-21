@@ -43,6 +43,7 @@ top_img: https://howiechen95.com/group1/M00/00/00/CgAMB2DZ_hGAGMDoAAJfuBSscsY012
 - 《影响力》
 - 《非暴力沟通》
 - 《人性的弱点全集》
+- 《被讨厌的勇气》
 
 > ### 社会学
 
